@@ -73,15 +73,7 @@ Việc sử dụng mã nguồn đồng nghĩa với việc bạn đã đọc và
 
 ## Ủng hộ tác giả
 
-Dự án chia sẻ miễn phí. Nếu thấy hữu ích và muốn góp chút công đức để tác giả duy trì và làm thêm tính năng, bạn có thể chuyển khoản:
-
-| | |
-|---|---|
-| Ngân hàng | **MB Bank** |
-| Số tài khoản | **999979798886** |
-| Chủ tài khoản | **HUYNH HUU NHAN** |
-
-![QR chuyển khoản MB Bank](https://img.vietqr.io/image/MB-999979798886-compact2.png?accountName=HUYNH%20HUU%20NHAN&addInfo=Ung%20ho%20Chanh%20Dien%20Online)
+Dự án chia sẻ miễn phí. Nếu thấy hữu ích và muốn góp chút công đức để tác giả duy trì và làm thêm tính năng
 
 Xin cảm ơn và chúc bạn thân tâm an lạc. Nam mô A Di Đà Phật.
 
